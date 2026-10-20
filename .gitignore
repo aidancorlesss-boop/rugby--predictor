@@ -1,0 +1,12 @@
+
+# Data and database files are rebuilt from code, not committed
+data/raw/
+*.db
+*.sqlite
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
